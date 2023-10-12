@@ -100,8 +100,6 @@ SOFTWARE.
 angular2-ladda
 MIT
 
-appfinder
-
 ladda
 MIT
 Copyright (C) 2017 Hakim El Hattab, http://hakim.se
