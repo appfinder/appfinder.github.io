@@ -22,7 +22,9 @@
       },
       "CONTROL": {
         "PACKAGES": "Paquets",
-        "DONATE": "Faire un don"
+        "DONATE": "Faire un don",
+        "DISPLAY_LANGUAGE":"Langue d'affichage"
+
       }
     },
     "SHARED": {

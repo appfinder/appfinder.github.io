@@ -22,7 +22,8 @@
     },
     "CONTROL": {
       "PACKAGES": "Packages",
-      "DONATE": "Donate"
+      "DONATE": "Donate",
+      "DISPLAY_LANGUAGE":"Dispaly language"
     }
   },
   "SHARED": {
