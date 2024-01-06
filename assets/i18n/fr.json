@@ -1,0 +1,33 @@
+{
+    "PAGES": {
+      "HOME": {
+        "NO_DATA_AVAILABLE": "Pas de données disponibles",
+        "SEARCH": "Rechercher",
+        "DASHBOARD": "Tableau de bord",
+        "FEATURED": "En vedette",
+        "BROWSERS": "Navigateurs",
+        "DESKTOP": "Bureau",
+        "SECURITY": "Sécurité",
+        "MULTIMEDIA": "Multimédia",
+        "DEVELOPER_TOOLS": "Outils de développement",
+        "DOWNLOAD_CANCELLED": "Téléchargement annulé",
+        "DOWNLOAD_COMPLETED": "Téléchargement terminé.. installation en cours",
+        "DOWNLOAD_FAILED": "Échec du téléchargement",
+        "INSTALL_FAILED": "Échec de l'installation",
+        "INSTALLED_SUCCESSFULLY": "Installé avec succès",
+        "DISMISS": "Fermer"
+      },
+      "TITLE_BARE": {
+        "TOGGLE_NAVIGATION": "Basculer la navigation"
+      },
+      "CONTROL": {
+        "PACKAGES": "Paquets",
+        "DONATE": "Faire un don"
+      }
+    },
+    "SHARED": {
+      "APP_NAME": "AppFinder",
+      "APP_NAME_SHORT": "AF"
+    }
+  }
+  

@@ -1,12 +1,32 @@
 {
   "PAGES": {
-      "HOME": {
-          "TITLE": "App works !",
-          "GO_TO_DETAIL": "Go to Detail"
-      },
-      "DETAIL": {
-        "TITLE": "Detail page !",
-        "BACK_TO_HOME": "Back to Home"
+    "HOME": {
+      "NO_DATA_AVAILABLE": "No Data Available",
+      "SEARCH":"Search",
+      "DASHBOARD":"Dashboard",
+      "FEATURED":"Featured",
+      "BROWSERS":"Browsers",
+      "DESKTOP":"Desktop",
+      "SECURITY":"Security",
+      "MULTIMEDIA":"Multimedia",
+      "DEVELOPER_TOOLS":"Developer Tools",
+      "DOWNLOAD_CANCELLED":"Download cancelled",
+      "DOWNLOAD_COMPLETED":"Download completed.. installing",
+      "DOWNLOAD_FAILED":"Download failed",
+      "INSTALL_FAILED":"Install failed",
+      "INSTALLED_SUCCESSFULLY":"Installed successfully",
+      "DISMISS":"Dismiss"
+    },
+    "TITLE_BARE": {
+      "TOGGLE_NAVIGATION": "Toggle navigation"
+    },
+    "CONTROL": {
+      "PACKAGES": "Packages",
+      "DONATE": "Donate"
     }
+  },
+  "SHARED": {
+    "APP_NAME": "AppFinder",
+    "APP_NAME_SHORT": "AF"
   }
 }

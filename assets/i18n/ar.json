@@ -1,0 +1,32 @@
+{
+    "PAGES": {
+        "HOME": {
+            "NO_DATA_AVAILABLE": "لا تتوفر بيانات",
+            "SEARCH": "بحث",
+            "DASHBOARD": "لوحة القيادة",
+            "FEATURED": "مميز",
+            "BROWSERS": "متصفحات",
+            "DESKTOP": "سطح المكتب",
+            "SECURITY": "الأمان",
+            "MULTIMEDIA": "وسائط متعددة",
+            "DEVELOPER_TOOLS": "أدوات المطورين",
+            "DOWNLOAD_CANCELLED": "تم إلغاء التحميل",
+            "DOWNLOAD_COMPLETED": "تم التحميل.. يتم التثبيت",
+            "DOWNLOAD_FAILED": "فشل التحميل",
+            "INSTALL_FAILED": "فشل التثبيت",
+            "INSTALLED_SUCCESSFULLY": "تم التثبيت بنجاح",
+            "DISMISS": "تجاهل"
+        },
+        "TITLE_BARE": {
+            "TOGGLE_NAVIGATION": "تبديل التنقل"
+        },
+        "CONTROL": {
+            "PACKAGES": "الحزم",
+            "DONATE": "التبرع"
+        }
+    },
+    "SHARED": {
+        "APP_NAME": "AppFinder",
+        "APP_NAME_SHORT": "AF"
+    }
+}
