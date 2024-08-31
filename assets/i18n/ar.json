@@ -1,32 +1,35 @@
 {
     "PAGES": {
-        "HOME": {
-            "NO_DATA_AVAILABLE": "لا تتوفر بيانات",
-            "SEARCH": "بحث",
-            "DASHBOARD": "لوحة القيادة",
-            "FEATURED": "مميز",
-            "BROWSERS": "متصفحات",
-            "DESKTOP": "سطح المكتب",
-            "SECURITY": "الأمان",
-            "MULTIMEDIA": "وسائط متعددة",
-            "DEVELOPER_TOOLS": "أدوات المطورين",
-            "DOWNLOAD_CANCELLED": "تم إلغاء التحميل",
-            "DOWNLOAD_COMPLETED": "تم التحميل.. يتم التثبيت",
-            "DOWNLOAD_FAILED": "فشل التحميل",
-            "INSTALL_FAILED": "فشل التثبيت",
-            "INSTALLED_SUCCESSFULLY": "تم التثبيت بنجاح",
-            "DISMISS": "تجاهل"
-        },
-        "TITLE_BARE": {
-            "TOGGLE_NAVIGATION": "تبديل التنقل"
-        },
-        "CONTROL": {
-            "PACKAGES": "الحزم",
-            "DONATE": "التبرع"
-        }
+      "HOME": {
+        "MY_APPS": "تطبيقاتي",
+        "NO_DATA_AVAILABLE": "لا توجد بيانات متاحة",
+        "SEARCH":"بحث",
+        "DASHBOARD":"الرئيسية",
+        "FEATURED":"مميز",
+        "BROWSERS":"المتصفحات",
+        "DESKTOP":"سطح المكتب",
+        "SECURITY":"الأمان",
+        "MULTIMEDIA":"الوسائط المتعددة",
+        "DEVELOPER_TOOLS":"أدوات المطورين",
+        "DOWNLOAD_CANCELLED":"تم إلغاء التنزيل",
+        "DOWNLOAD_COMPLETED":"اكتمل التنزيل.. جاري التثبيت",
+        "DOWNLOAD_FAILED":"فشل التنزيل",
+        "INSTALL_FAILED":"فشل التثبيت",
+        "INSTALLED_SUCCESSFULLY":"تم التثبيت بنجاح",
+        "DISMISS":"تجاهل"
+      },
+      "TITLE_BARE": {
+        "TOGGLE_NAVIGATION": "تبديل التنقل"
+      },
+      "CONTROL": {
+        "PACKAGES": "الحزم",
+        "DONATE": "تبرع",
+        "DISPLAY_LANGUAGE":"لغة العرض"
+      }
     },
     "SHARED": {
-        "APP_NAME": "AppFinder",
-        "APP_NAME_SHORT": "AF"
+      "APP_NAME": "AppFinder",
+      "APP_NAME_SHORT": "AF"
     }
-}
+  }
+  

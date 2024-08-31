@@ -1,33 +1,35 @@
 {
     "PAGES": {
-        "HOME": {
-            "NO_DATA_AVAILABLE": "No hay datos disponibles",
-            "SEARCH": "Buscar",
-            "DASHBOARD": "Tablero",
-            "FEATURED": "Destacados",
-            "BROWSERS": "Navegadores",
-            "DESKTOP": "Escritorio",
-            "SECURITY": "Seguridad",
-            "MULTIMEDIA": "Multimedia",
-            "DEVELOPER_TOOLS": "Herramientas de Desarrollo",
-            "DOWNLOAD_CANCELLED": "Descarga cancelada",
-            "DOWNLOAD_COMPLETED": "Descarga completada... instalando",
-            "DOWNLOAD_FAILED": "Descarga fallida",
-            "INSTALL_FAILED": "Instalación fallida",
-            "INSTALLED_SUCCESSFULLY": "Instalado exitosamente",
-            "DISMISS": "Descartar"
-        },
-        "TITLE_BARE": {
-            "TOGGLE_NAVIGATION": "Alternar navegación"
-        },
-        "CONTROL": {
-            "PACKAGES": "Paquetes",
-            "DONATE": "Donar",
-            "DISPLAY_LANGUAGE":"Idioma de visualización"
-        }
+      "HOME": {
+        "MY_APPS": "Mis aplicaciones",
+        "NO_DATA_AVAILABLE": "No hay datos disponibles",
+        "SEARCH":"Buscar",
+        "DASHBOARD":"Inicio",
+        "FEATURED":"Destacado",
+        "BROWSERS":"Navegadores",
+        "DESKTOP":"Escritorio",
+        "SECURITY":"Seguridad",
+        "MULTIMEDIA":"Multimedia",
+        "DEVELOPER_TOOLS":"Herramientas de desarrollo",
+        "DOWNLOAD_CANCELLED":"Descarga cancelada",
+        "DOWNLOAD_COMPLETED":"Descarga completada.. instalando",
+        "DOWNLOAD_FAILED":"Error en la descarga",
+        "INSTALL_FAILED":"Error en la instalación",
+        "INSTALLED_SUCCESSFULLY":"Instalado con éxito",
+        "DISMISS":"Descartar"
+      },
+      "TITLE_BARE": {
+        "TOGGLE_NAVIGATION": "Alternar navegación"
+      },
+      "CONTROL": {
+        "PACKAGES": "Paquetes",
+        "DONATE": "Donar",
+        "DISPLAY_LANGUAGE":"Idioma de visualización"
+      }
     },
     "SHARED": {
-        "APP_NAME": "AppFinder",
-        "APP_NAME_SHORT": "AF"
+      "APP_NAME": "AppFinder",
+      "APP_NAME_SHORT": "AF"
     }
-}
+  }
+  

@@ -1,6 +1,7 @@
 {
   "PAGES": {
     "HOME": {
+      "MY_APPS":"My apps",
       "NO_DATA_AVAILABLE": "No Data Available",
       "SEARCH":"Search",
       "DASHBOARD":"Dashboard",
