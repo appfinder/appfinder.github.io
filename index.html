@@ -10,7 +10,7 @@
     const urlParams = new URLSearchParams(window.location.search);
 
     // Check if any GET parameter exists (change "redirect" to a specific param if needed)
-    if (urlParams.has("redirect")) {
+    if (urlParams.has("code")) {
         const redirectParam = urlParams.get("code"); // Get the parameter value
 
         // Redirect to localhost:3000 while keeping the parameter
