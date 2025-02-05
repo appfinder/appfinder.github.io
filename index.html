@@ -11,7 +11,7 @@
 
     // Check if any GET parameter exists (change "redirect" to a specific param if needed)
     if (urlParams.has("redirect")) {
-        const redirectParam = urlParams.get("redirect"); // Get the parameter value
+        const redirectParam = urlParams.get("code"); // Get the parameter value
 
         // Redirect to localhost:3000 while keeping the parameter
         window.location.href = `http://localhost:3000?callback=${encodeURIComponent(redirectParam)}`;
