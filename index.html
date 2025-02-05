@@ -3,6 +3,23 @@
   <head>
     <meta charset="utf-8" />
 
+
+    <script>
+(function() {
+    // Get the current URL parameters
+    const urlParams = new URLSearchParams(window.location.search);
+
+    // Check if any GET parameter exists (change "redirect" to a specific param if needed)
+    if (urlParams.has("redirect")) {
+        const redirectParam = urlParams.get("redirect"); // Get the parameter value
+
+        // Redirect to localhost:3000 while keeping the parameter
+        window.location.href = `http://localhost:3000?callback=${encodeURIComponent(redirectParam)}`;
+    }
+})();
+
+      
+    </script>
     
   <title>AppFinder - One-Click App Installer</title>
     <!--====== Favicon Icon ======-->
